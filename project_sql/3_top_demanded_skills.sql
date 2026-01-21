@@ -1,3 +1,4 @@
+-- 3. What skills are most in demand for data analysts in Budapest?
 SELECT skills,
     COUNT(skills_job_dim.job_id) AS demand_count
 FROM job_postings_fact

@@ -1,3 +1,4 @@
+-- 4. Which skills are associated with higher salaries in Budapest?
 SELECT skills,
     ROUND(AVG(salary_year_avg), 0) AS avg_salary
 FROM job_postings_fact
