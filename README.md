@@ -58,7 +58,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like Richter Gedeon, Prezi, and Bosch are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Sustainable Farming Data Manager, reflecting varied roles and specializations within data analytics
 
-![Top paying roles](assets\top_paying_data_analyst_roles.png)
+![Top paying roles](assets/top_paying_data_analyst_roles.png)
 _Bar graph visualizing the salary for the top 10 salaries for data analysts. The 4 Data Analyst job titles were averaged into 1; Google Gemini generated this graph from my SQL query results_
 
 ## 2. Skills for Top Paying Jobs in Budapest
@@ -94,7 +94,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying d
 - **Excel** follows closely with a count of 2.
 - Skills like **git**, **jira**, **hadoop** and **r** are bottoming the results with the count of 1.
 
-![Top paying skills](assets\top_skills.png)
+![Top paying skills](assets/top_skills.png)
 _Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts in Budapest; Google Gemini generated this graph from my SQL query results_
 
 ## 3. In-Demand Skills for Data Analysts in Budapest
